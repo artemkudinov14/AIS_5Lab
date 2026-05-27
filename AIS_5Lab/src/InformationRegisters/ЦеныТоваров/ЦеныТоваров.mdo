@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4d9746b8-1a32-46d2-8299-a634d5d4088f">
+  <producedTypes>
+    <selectionType typeId="9d3dc0f4-c77c-402e-8b4d-348eeed2911b" valueTypeId="4b7ed6ea-42ba-402b-9825-196ca7121c1e"/>
+    <listType typeId="4758e641-c239-44ec-a0ba-844c81188c4a" valueTypeId="3bc8e921-0016-41ec-9d28-4eb116d63b89"/>
+    <managerType typeId="ac0b7711-a3c4-4922-953d-0c6703e830b7" valueTypeId="36bd03fd-70cf-4ff4-8e6a-9799cde691cc"/>
+    <recordSetType typeId="b953d893-46e4-4842-88ee-5374a6f45857" valueTypeId="daf10ae4-6611-4dcf-b0de-5527528ebcb1"/>
+    <recordKeyType typeId="f2ee5820-8e06-47e2-b501-97851357ca91" valueTypeId="4fb96aa9-bcf3-4bc4-848d-51ee09cbf261"/>
+    <recordType typeId="b7c373f8-c88c-461b-9dd8-ceeee39a84dd" valueTypeId="7bb74101-320e-44c2-a75f-cf1c18d754b4"/>
+    <recordManagerType typeId="c73b7546-4953-4b9f-b303-40be3feb62e8" valueTypeId="b1ecb24e-7b9a-4407-b87e-93f8cbc014f1"/>
+  </producedTypes>
+  <name>ЦеныТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Цены товаров</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:InformationRegister>
